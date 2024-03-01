@@ -1,0 +1,52 @@
+/* Start header */
+header {
+  background-color: #003588;
+  height: 79px;
+}
+.parhead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  line-height: 61px;
+}
+.parhead__brand > a {
+  font-size: 18px;
+  color: #fff;
+}
+.parhead__user > button {
+  border: 0;
+  outline: 0;
+  border-radius: 5px;git status
+  background-color: aliceblue;
+  padding: 7px;
+  margin: 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+/* End header */
+
+/* Start nav */
+nav {
+  background-color: #003588;
+  height: 72px;
+}
+.parnav__ul {
+  display: flex;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.parnav__ul > li > a {
+  color: #fff;
+  font-size: 15px;
+  padding: 7px;
+  border-radius: 15px;
+  transition: 0.5s ease-in-out;
+}
+.parnav__ul > li > a:hover{
+  background-color: aliceblue;
+  color: #003588;
+}
+.parnav__ul > li > .active {
+  border: 1px solid #fff;
+}
+/* End nav */
