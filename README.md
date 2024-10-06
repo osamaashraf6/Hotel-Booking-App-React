@@ -5,7 +5,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Like Notion\] ](#-Hotel Booking App)
+- [📖 \[Hotel Booking App\] ] 
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -29,9 +29,9 @@
 - Hotel Booking App! A Hotel Booking App using React combines a visually appealing and intuitive user interface with efficient functionality, providing users with a seamless experience from searching for hotels to making reservations. 👌💯
 
 
-<!-- | Screenshot for the demo| 
+| Screenshot for the demo|
 | --- |
-|![image](https://github.com/osamaashraf6/Like-Notion/assets/83360636/023b1690-273f-43c3-8438-430d72e691c5) | -->
+|  ![image](https://github.com/user-attachments/assets/7a4adb83-9889-4323-95cd-3d7ba0e74b5a) |
 
 
 
@@ -53,10 +53,10 @@
 ### Key Features <a name="key-features"></a>
 
 
-- [x] Set up the project using Linter🪄
-- [x] Follow the GitHub and GitFlow.👌
-- [x] Use the linter for clean code and follwing the best practice.💯
-- [x] Write the README in a professional way.⤵️
+- [x] Hotel Search and Filter🪄
+- [x] Room and Hotel Details👌
+- [x] Booking and Payment Integration💯
+- [x] User Authentication.⤵️
 
 
 
@@ -86,8 +86,8 @@ Clone this repository to your desired folder:
 
 ```sh
 
-  git clone git@github.com:osamaashraf6/Hotel-Booking-App-React.git
-    cd Hotel-Booking-App
+  git clone https://github.com/osamaashraf6/Hotel-Booking-App-React.git
+    cd Booking-App-React
 ```
 
 
@@ -95,7 +95,7 @@ Clone this repository to your desired folder:
 
 Install this project with:
 ```sh
-  cd Hotel-Booking-App
+  cd Booking-App-React
   npm install
 ```
 
@@ -131,9 +131,7 @@ To run the project, execute the following command:
 
 
 
-- [x] Add the Structure of the app.⤵️
-- [x] Add the Style of the app.😃
-- [x] Follow the best practice in the code.⤵👌💯
+- [x] Admin Dashboard.⤵️
 
 
 
